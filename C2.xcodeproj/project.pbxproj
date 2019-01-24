@@ -57,9 +57,17 @@
 		E767A2F421FA0E440045B813 /* C2 */ = {
 			isa = PBXGroup;
 			children = (
-				E767A2FC21FA0F920045B813 /* Runner.cpp */,
+				E767A2FE21FA105D0045B813 /* Controller */,
 			);
 			path = C2;
+			sourceTree = "<group>";
+		};
+		E767A2FE21FA105D0045B813 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E767A2FC21FA0F920045B813 /* Runner.cpp */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
